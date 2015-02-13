@@ -27,7 +27,9 @@ Plugin Features !!!!!
 
 
  
-Live Preview: <a href="http://nakshighor.com/plugins/nice-responsive-wp-faq/ target="_blank""></a>
+Live Preview:http://nakshighor.com/plugins/nice-responsive-wp-faq/ target="_blank"
+<br />
+[Live Preview: ](http://nakshighor.com/plugins/nice-responsive-wp-faq/ target="_blank")<br />
 
 == Installation ==
 
