@@ -1,5 +1,7 @@
 === Nice Responsive WP_FAQ ===
-Contributors: Theme Road
+Contributors: BestThemeRoad
+Author URI: https://profiles.wordpress.org/bestthemeroad
+Author: Theme Road
 Donate link: 
 Tags: custom post type with accordion, FAQ, faq list, FAQ Plugin, faq with accordion, FAQs, frequently asked questions, jquery ui accordion, jquery-ui, shortcodes, wordpress, wordpress faq, WordPress Plugin, wp-faq with category,frequently asked questions, wordpress, wordpress faq, WordPress Plugin
 Requires at least: 3.5
