@@ -36,7 +36,7 @@ Live Preview: http://nakshighor.com/plugins/nice-responsive-wp-faq/
 
 Via WordPress -
 1. Install as a regular WordPress plugin.
-2. From WordPress Dashboard go to "Plugins>> Add New>> Uploads", select 'wp-awesome-faq.zip' file and upload it. Or
+2. From WordPress Dashboard go to "Plugins>> Add New>> Uploads", select 'nice responsive wp_faq.zip' file and upload it. Or
 3. Upload faq plugin to the /wp-content/plugins/ directory
 4. Activate the plugin through the 'Plugins' menu in WordPress
 
