@@ -3,7 +3,7 @@ Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
 Donate link: 
-Tags: custom post type with accordion, FAQ, faq list, FAQ Plugin, faq with accordion, FAQs, frequently asked questions, jquery ui accordion, jquery-ui, shortcodes, wordpress, wordpress faq, WordPress Plugin, wp-faq with category,frequently asked questions, wordpress, wordpress faq, WordPress Plugin
+Tags: custom post type with accordion, FAQ, faq list, FAQ Plugin, faq with accordion, FAQs, frequently asked questions, jquery ui accordion, jquery-ui, shortcodes, wordpress, wordpress faq, WordPress Plugin, wp-faq with category,frequently asked questions, wordpress, wordpress faq, WordPress Plugin, drag and drop, modal,botstrap modal, 
 Requires at least: 3.5
 Tested up to: 4.1
 Stable tag: 1.0
@@ -40,6 +40,9 @@ Installation Video Tutorial:
 * Dgag & Drop Feature
 * Without any coding & customization
 * Super Easy to use.
+* Font Awesome Icon Selection
+* Various Style Select with bootstrap default style
+* Unlimited color select for title, text, body, background even icon
 * Much more..........
 
 Pro Version Installation guide:
