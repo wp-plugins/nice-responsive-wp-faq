@@ -37,7 +37,7 @@ Installation Video Tutorial:
 
 ### Pro Version Features
 
-* Dgag & Drop Feature
+* Drag & Drop Feature
 * Without any coding & customization
 * Super Easy to use.
 * Font Awesome Icon Selection
