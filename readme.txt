@@ -42,8 +42,8 @@ Installation Video Tutorial:
 * Super Easy to use.
 * Much more..........
 
-Pro Version Installation guide
-[https://www.youtube.com/watch?v=jpz1PtPLLD8
+Pro Version Installation guide:
+[youtube https://www.youtube.com/watch?v=jpz1PtPLLD8]
  
  
  
