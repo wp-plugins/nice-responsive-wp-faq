@@ -28,23 +28,28 @@ Plugin Features !!!!!
 * Easy to Use.
 * You can use it in posts or pages.
 * Just use this code  [tmrd_faqs] where you want use faq.
+* [Upgrade to the Pro Version Now!&raquo;](http://themeroad.net/product/tr-nice-accordion/)
+* [View a live demo &raquo;](http://themeroad.net/product/tr-nice-accordion/)
 
 
 Installation Video Tutorial:
 [youtube https://www.youtube.com/watch?v=jFm6Re7XEeA]
+
+### Pro Version Features
+
+* Dgag & Drop Feature
+* Without any coding & customization
+* Super Easy to use.
+* Much more..........
+
+Pro Version Installation guide
+[youtube https://www.youtube.com/watch?v=jpz1PtPLLD8&feature=player_detailpage
  
  
  
-* [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)
- * [Easy Responsive Google Map](https://wordpress.org/plugins/easy-responsive-google-map/)
- * [Amazing Pricing Table](https://wordpress.org/plugins/amazing-pricing-table/)
- * [Developers Total Widgets](https://wordpress.org/plugins/developers-total-widgets/)
- * [Perfect Client Testimonial](https://wordpress.org/plugins/perfect-client-testimonial/)
- * [TR Easy Google Analytics ](https://wordpress.org/plugins/tr-easy-google-analytics/)
- * [Easy Google Webmaster Tools](https://wordpress.org/plugins/easy-webmaster-tools/)
- * [WP Custom Header Footer](https://wordpress.org/plugins/wp-custom-header-footer/)
- * [TR WP Custom Login Page](https://wordpress.org/plugins/tr-wp-custom-login-page/)
- * [TR Recent Post View By Category](https://wordpress.org/plugins/tr-recent-post-view-by-category/) 
+* [Our Others Premium Plugins](http://themeroad.net/)
+ * [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
+ 
  
  
 Live Preview: http://nakshighor.com/plugins/nice-responsive-wp-faq/
