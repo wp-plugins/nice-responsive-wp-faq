@@ -43,7 +43,7 @@ Installation Video Tutorial:
 * Much more..........
 
 Pro Version Installation guide
-[youtube https://www.youtube.com/watch?v=jpz1PtPLLD8&feature=player_detailpage
+[https://www.youtube.com/watch?v=jpz1PtPLLD8
  
  
  
