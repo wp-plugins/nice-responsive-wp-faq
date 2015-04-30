@@ -48,7 +48,7 @@ function tmrd_add_color_picker( $hook ) {
 
 
 
-include '/assets/inc/ex-settings.php';
+require_once dirname( __FILE__ ) . '/tr-wozoom-settings.php';
 
 function tmrd_faq_post_type() {
 
@@ -194,6 +194,18 @@ add_action( 'wp_enqueue_scripts', 'tmrd_faq_load_script_style' );
 
 
 
+//--------- trigger setting api class---------------- //
+
+function tr_option( $option, $section, $default = '' ) {
+ 
+    $options = get_option( $section );
+ 
+    if ( isset( $options[$option] ) ) {
+        return $options[$option];
+    }
+ 
+    return $default;
+}
 
 
 
@@ -207,21 +219,21 @@ add_action( 'wp_enqueue_scripts', 'tmrd_faq_load_script_style' );
 
 function faq_desire_stylesheet(){?>
 
-<?php $options = get_option('plugin_options'); ?>
+
 
 <style type="text/css">
 	
 
 .panel-default > .panel-heading {
 color: #333333;
-background-color: <?php echo $options['text_string']; ?> !important;
+background-color: <?php echo tr_option( 'lens_color_style', 'tr_wozoom_style', '#F90' );?> !important;
 border-color: #dddddd;
 }
 
 
 .panel-title a{
 
-	color: <?php echo $options['pass_string']; ?> !important;
+	color: <?php echo tr_option( 'tr_color_style', 'tr_wozoom_style', '#F90' );?> !important;
 }
 
 
