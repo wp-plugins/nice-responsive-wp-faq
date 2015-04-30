@@ -4,7 +4,7 @@
  * Plugin URI: http://nakshighor.com/plugins/nice-responsive-wp-faq/
  * Description: Are you want add a Responsive Faq pages in your websites? Because it will be helps you to get a more visitors and get a good relations with your clients. Now ThemeRoad is helps you to add a Faq pages in your sites easily without any kind of coding. You can just download and install our plugin as like other plugin. And then create unlimited new faq as you wish with title and unlimited description. And then you create a Faq page and just use this shortcode [tmrd_faqs].If want to use custom background or title color then go to settings > Faq color and choose your custom color as you wish. And Enjoy your Faq pages with unlimited Background and Title color. Don't Forget to give us good rating.
  
- * Version:  1.0.0
+ * Version:  1.1.0
  * Author: Theme Road
  * Author URI: http://nakshighor.com/plugins/nice-responsive-wp-faq/
  * License:  GPL2
