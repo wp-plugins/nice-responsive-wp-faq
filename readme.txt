@@ -60,7 +60,7 @@ Pro Version Installation guide:
  * [TR Nice Accordion Pro](http://themeroad.net/Products/tr-premium-accordion-pro/)
 
  
-Live Preview: http://nakshighor.com/plugins/nice-responsive-wp-faq/
+
 
 
 == Installation ==
